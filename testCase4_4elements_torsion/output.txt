@@ -1,0 +1,331 @@
+------------------------------
+FEA Finite Element Calculation
+------------------------------
+
+Number of Nodes and Number of Elements:      65      16
+
+Modulus of Elasticity: 29000000
+poisson ratio:   0.30
+structure density: 0.000800
+
+Static Analysis
+
+Joint Coordinates-INOD:      1   0.00  20.00   0.00
+Joint Coordinates-INOD:      2   0.00  15.00   0.00
+Joint Coordinates-INOD:      3   0.00  10.00   0.00
+Joint Coordinates-INOD:      4   0.00   5.00   0.00
+Joint Coordinates-INOD:      5   0.00   0.00   0.00
+Joint Coordinates-INOD:      6   5.00  20.00   0.00
+Joint Coordinates-INOD:      7   5.00  15.00   0.00
+Joint Coordinates-INOD:      8   5.00  10.00   0.00
+Joint Coordinates-INOD:      9   5.00   5.00   0.00
+Joint Coordinates-INOD:     10   5.00   0.00   0.00
+Joint Coordinates-INOD:     11  10.00  20.00   0.00
+Joint Coordinates-INOD:     12  10.00  15.00   0.00
+Joint Coordinates-INOD:     13  10.00  10.00   0.00
+Joint Coordinates-INOD:     14  10.00   5.00   0.00
+Joint Coordinates-INOD:     15  10.00   0.00   0.00
+Joint Coordinates-INOD:     16  15.00  20.00   0.00
+Joint Coordinates-INOD:     17  15.00  15.00   0.00
+Joint Coordinates-INOD:     18  15.00  10.00   0.00
+Joint Coordinates-INOD:     19  15.00   5.00   0.00
+Joint Coordinates-INOD:     20  15.00   0.00   0.00
+Joint Coordinates-INOD:     21  20.00  20.00   0.00
+Joint Coordinates-INOD:     22  20.00  15.00   0.00
+Joint Coordinates-INOD:     23  20.00  10.00   0.00
+Joint Coordinates-INOD:     24  20.00   5.00   0.00
+Joint Coordinates-INOD:     25  20.00   0.00   0.00
+Joint Coordinates-INOD:     26   0.00  17.50   0.00
+Joint Coordinates-INOD:     27   2.50  15.00   0.00
+Joint Coordinates-INOD:     28   5.00  17.50   0.00
+Joint Coordinates-INOD:     29   2.50  20.00   0.00
+Joint Coordinates-INOD:     30   0.00  12.50   0.00
+Joint Coordinates-INOD:     31   2.50  10.00   0.00
+Joint Coordinates-INOD:     32   5.00  12.50   0.00
+Joint Coordinates-INOD:     33   0.00   7.50   0.00
+Joint Coordinates-INOD:     34   2.50   5.00   0.00
+Joint Coordinates-INOD:     35   5.00   7.50   0.00
+Joint Coordinates-INOD:     36   0.00   2.50   0.00
+Joint Coordinates-INOD:     37   2.50   0.00   0.00
+Joint Coordinates-INOD:     38   5.00   2.50   0.00
+Joint Coordinates-INOD:     39   7.50  15.00   0.00
+Joint Coordinates-INOD:     40  10.00  17.50   0.00
+Joint Coordinates-INOD:     41   7.50  20.00   0.00
+Joint Coordinates-INOD:     42   7.50  10.00   0.00
+Joint Coordinates-INOD:     43  10.00  12.50   0.00
+Joint Coordinates-INOD:     44   7.50   5.00   0.00
+Joint Coordinates-INOD:     45  10.00   7.50   0.00
+Joint Coordinates-INOD:     46   7.50   0.00   0.00
+Joint Coordinates-INOD:     47  10.00   2.50   0.00
+Joint Coordinates-INOD:     48  12.50  15.00   0.00
+Joint Coordinates-INOD:     49  15.00  17.50   0.00
+Joint Coordinates-INOD:     50  12.50  20.00   0.00
+Joint Coordinates-INOD:     51  12.50  10.00   0.00
+Joint Coordinates-INOD:     52  15.00  12.50   0.00
+Joint Coordinates-INOD:     53  12.50   5.00   0.00
+Joint Coordinates-INOD:     54  15.00   7.50   0.00
+Joint Coordinates-INOD:     55  12.50   0.00   0.00
+Joint Coordinates-INOD:     56  15.00   2.50   0.00
+Joint Coordinates-INOD:     57  17.50  15.00   0.00
+Joint Coordinates-INOD:     58  20.00  17.50   0.00
+Joint Coordinates-INOD:     59  17.50  20.00   0.00
+Joint Coordinates-INOD:     60  17.50  10.00   0.00
+Joint Coordinates-INOD:     61  20.00  12.50   0.00
+Joint Coordinates-INOD:     62  17.50   5.00   0.00
+Joint Coordinates-INOD:     63  20.00   7.50   0.00
+Joint Coordinates-INOD:     64  17.50   0.00   0.00
+Joint Coordinates-INOD:     65  20.00   2.50   0.00
+
+Joint Restraints at Node Point-INOD:    1   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:    2   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:    3   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:    4   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:    5   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:    6   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:    7   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:    8   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:    9   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   10   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   11   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   12   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   13   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   14   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   15   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   16   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   17   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   18   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   19   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   20   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   21   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   22   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   23   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   24   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   25   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   26   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:   27   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   28   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   29   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   30   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:   31   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   32   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   33   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:   34   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   35   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   36   0   0   0   0   0   0
+Joint Restraints at Node Point-INOD:   37   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   38   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   39   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   40   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   41   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   42   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   43   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   44   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   45   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   46   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   47   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   48   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   49   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   50   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   51   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   52   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   53   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   54   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   55   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   56   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   57   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   58   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   59   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   60   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   61   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   62   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   63   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   64   1   1   1   1   1   1
+Joint Restraints at Node Point-INOD:   65   1   1   1   1   1   1
+
+Connectivity-IEL:    1    1    2    7    6   26   27   28   29
+Connectivity-IEL:    2    2    3    8    7   30   31   32   27
+Connectivity-IEL:    3    3    4    9    8   33   34   35   31
+Connectivity-IEL:    4    4    5   10    9   36   37   38   34
+Connectivity-IEL:    5    6    7   12   11   28   39   40   41
+Connectivity-IEL:    6    7    8   13   12   32   42   43   39
+Connectivity-IEL:    7    8    9   14   13   35   44   45   42
+Connectivity-IEL:    8    9   10   15   14   38   46   47   44
+Connectivity-IEL:    9   11   12   17   16   40   48   49   50
+Connectivity-IEL:   10   12   13   18   17   43   51   52   48
+Connectivity-IEL:   11   13   14   19   18   45   53   54   51
+Connectivity-IEL:   12   14   15   20   19   47   55   56   53
+Connectivity-IEL:   13   16   17   22   21   49   57   58   59
+Connectivity-IEL:   14   17   18   23   22   52   60   61   57
+Connectivity-IEL:   15   18   19   24   23   54   62   63   60
+Connectivity-IEL:   16   19   20   25   24   56   64   65   62
+
+Concen. Forces-I,IFORNOD,IFORDIR,FORVAL:    1   21   3   3.00
+  200 Concen. Forces-I,IFORNOD,IFORDIR,FORVAL:    2   25   3   3.00
+ -200 
+Acting Forces-INOD:   21   0.00   0.00 200.00   0.00   0.00   0.00
+Acting Forces-INOD:   25   0.00   0.00 -200.00   0.00   0.00   0.00
+
+Degrees of Freedom Point-INOD:    1    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:    2    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:    3    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:    4    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:    5    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:    6    1    2    3    4    5    6
+Degrees of Freedom Point-INOD:    7    7    8    9   10   11   12
+Degrees of Freedom Point-INOD:    8   13   14   15   16   17   18
+Degrees of Freedom Point-INOD:    9   19   20   21   22   23   24
+Degrees of Freedom Point-INOD:   10   25   26   27   28   29   30
+Degrees of Freedom Point-INOD:   11   31   32   33   34   35   36
+Degrees of Freedom Point-INOD:   12   37   38   39   40   41   42
+Degrees of Freedom Point-INOD:   13   43   44   45   46   47   48
+Degrees of Freedom Point-INOD:   14   49   50   51   52   53   54
+Degrees of Freedom Point-INOD:   15   55   56   57   58   59   60
+Degrees of Freedom Point-INOD:   16   61   62   63   64   65   66
+Degrees of Freedom Point-INOD:   17   67   68   69   70   71   72
+Degrees of Freedom Point-INOD:   18   73   74   75   76   77   78
+Degrees of Freedom Point-INOD:   19   79   80   81   82   83   84
+Degrees of Freedom Point-INOD:   20   85   86   87   88   89   90
+Degrees of Freedom Point-INOD:   21   91   92   93   94   95   96
+Degrees of Freedom Point-INOD:   22   97   98   99  100  101  102
+Degrees of Freedom Point-INOD:   23  103  104  105  106  107  108
+Degrees of Freedom Point-INOD:   24  109  110  111  112  113  114
+Degrees of Freedom Point-INOD:   25  115  116  117  118  119  120
+Degrees of Freedom Point-INOD:   26    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:   27  121  122  123  124  125  126
+Degrees of Freedom Point-INOD:   28  127  128  129  130  131  132
+Degrees of Freedom Point-INOD:   29  133  134  135  136  137  138
+Degrees of Freedom Point-INOD:   30    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:   31  139  140  141  142  143  144
+Degrees of Freedom Point-INOD:   32  145  146  147  148  149  150
+Degrees of Freedom Point-INOD:   33    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:   34  151  152  153  154  155  156
+Degrees of Freedom Point-INOD:   35  157  158  159  160  161  162
+Degrees of Freedom Point-INOD:   36    0    0    0    0    0    0
+Degrees of Freedom Point-INOD:   37  163  164  165  166  167  168
+Degrees of Freedom Point-INOD:   38  169  170  171  172  173  174
+Degrees of Freedom Point-INOD:   39  175  176  177  178  179  180
+Degrees of Freedom Point-INOD:   40  181  182  183  184  185  186
+Degrees of Freedom Point-INOD:   41  187  188  189  190  191  192
+Degrees of Freedom Point-INOD:   42  193  194  195  196  197  198
+Degrees of Freedom Point-INOD:   43  199  200  201  202  203  204
+Degrees of Freedom Point-INOD:   44  205  206  207  208  209  210
+Degrees of Freedom Point-INOD:   45  211  212  213  214  215  216
+Degrees of Freedom Point-INOD:   46  217  218  219  220  221  222
+Degrees of Freedom Point-INOD:   47  223  224  225  226  227  228
+Degrees of Freedom Point-INOD:   48  229  230  231  232  233  234
+Degrees of Freedom Point-INOD:   49  235  236  237  238  239  240
+Degrees of Freedom Point-INOD:   50  241  242  243  244  245  246
+Degrees of Freedom Point-INOD:   51  247  248  249  250  251  252
+Degrees of Freedom Point-INOD:   52  253  254  255  256  257  258
+Degrees of Freedom Point-INOD:   53  259  260  261  262  263  264
+Degrees of Freedom Point-INOD:   54  265  266  267  268  269  270
+Degrees of Freedom Point-INOD:   55  271  272  273  274  275  276
+Degrees of Freedom Point-INOD:   56  277  278  279  280  281  282
+Degrees of Freedom Point-INOD:   57  283  284  285  286  287  288
+Degrees of Freedom Point-INOD:   58  289  290  291  292  293  294
+Degrees of Freedom Point-INOD:   59  295  296  297  298  299  300
+Degrees of Freedom Point-INOD:   60  301  302  303  304  305  306
+Degrees of Freedom Point-INOD:   61  307  308  309  310  311  312
+Degrees of Freedom Point-INOD:   62  313  314  315  316  317  318
+Degrees of Freedom Point-INOD:   63  319  320  321  322  323  324
+Degrees of Freedom Point-INOD:   64  325  326  327  328  329  330
+Degrees of Freedom Point-INOD:   65  331  332  333  334  335  336
+
+Output Displacements-INOD:    1 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:    2 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:    3 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:    4 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:    5 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:    6 0.00000 0.00000 0.00012 0.00001 -0.00004 0.00000
+Output Displacements-INOD:    7 0.00000 0.00000 0.00006 0.00001 -0.00002 0.00000
+Output Displacements-INOD:    8 0.00000 0.00000 0.00000 0.00001 -0.00000 0.00000
+Output Displacements-INOD:    9 0.00000 0.00000 -0.00006 0.00001 0.00002 0.00000
+Output Displacements-INOD:   10 0.00000 0.00000 -0.00012 0.00001 0.00004 0.00000
+Output Displacements-INOD:   11 0.00000 0.00000 0.00039 0.00004 -0.00006 0.00000
+Output Displacements-INOD:   12 0.00000 0.00000 0.00020 0.00004 -0.00003 0.00000
+Output Displacements-INOD:   13 0.00000 0.00000 0.00000 0.00004 -0.00000 0.00000
+Output Displacements-INOD:   14 0.00000 0.00000 -0.00020 0.00004 0.00003 0.00000
+Output Displacements-INOD:   15 0.00000 0.00000 -0.00039 0.00004 0.00006 0.00000
+Output Displacements-INOD:   16 0.00000 0.00000 0.00071 0.00007 -0.00006 0.00000
+Output Displacements-INOD:   17 0.00000 0.00000 0.00036 0.00007 -0.00003 0.00000
+Output Displacements-INOD:   18 0.00000 0.00000 0.00000 0.00007 -0.00000 0.00000
+Output Displacements-INOD:   19 0.00000 0.00000 -0.00036 0.00007 0.00003 0.00000
+Output Displacements-INOD:   20 0.00000 0.00000 -0.00071 0.00007 0.00006 0.00000
+Output Displacements-INOD:   21 0.00000 0.00000 0.00107 0.00010 -0.00007 0.00000
+Output Displacements-INOD:   22 0.00000 0.00000 0.00052 0.00010 -0.00003 0.00000
+Output Displacements-INOD:   23 0.00000 0.00000 0.00000 0.00010 -0.00000 0.00000
+Output Displacements-INOD:   24 0.00000 0.00000 -0.00052 0.00010 0.00003 0.00000
+Output Displacements-INOD:   25 0.00000 0.00000 -0.00107 0.00010 0.00007 0.00000
+Output Displacements-INOD:   26 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:   27 0.00000 0.00000 0.00002 0.00001 -0.00001 0.00000
+Output Displacements-INOD:   28 0.00000 0.00000 0.00010 0.00001 -0.00003 0.00000
+Output Displacements-INOD:   29 0.00000 0.00000 0.00004 0.00000 -0.00002 0.00000
+Output Displacements-INOD:   30 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:   31 0.00000 0.00000 0.00000 0.00000 -0.00000 0.00000
+Output Displacements-INOD:   32 0.00000 0.00000 0.00003 0.00001 -0.00001 0.00000
+Output Displacements-INOD:   33 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:   34 0.00000 0.00000 -0.00002 0.00001 0.00001 0.00000
+Output Displacements-INOD:   35 0.00000 0.00000 -0.00003 0.00001 0.00001 0.00000
+Output Displacements-INOD:   36 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+Output Displacements-INOD:   37 0.00000 0.00000 -0.00004 0.00000 0.00002 0.00000
+Output Displacements-INOD:   38 0.00000 0.00000 -0.00010 0.00001 0.00003 0.00000
+Output Displacements-INOD:   39 0.00000 0.00000 0.00012 0.00003 -0.00003 0.00000
+Output Displacements-INOD:   40 0.00000 0.00000 0.00029 0.00004 -0.00005 0.00000
+Output Displacements-INOD:   41 0.00000 0.00000 0.00025 0.00002 -0.00005 0.00000
+Output Displacements-INOD:   42 0.00000 0.00000 0.00000 0.00003 -0.00000 0.00000
+Output Displacements-INOD:   43 0.00000 0.00000 0.00010 0.00004 -0.00002 0.00000
+Output Displacements-INOD:   44 0.00000 0.00000 -0.00012 0.00003 0.00003 0.00000
+Output Displacements-INOD:   45 0.00000 0.00000 -0.00010 0.00004 0.00002 0.00000
+Output Displacements-INOD:   46 0.00000 0.00000 -0.00025 0.00002 0.00005 0.00000
+Output Displacements-INOD:   47 0.00000 0.00000 -0.00029 0.00004 0.00005 0.00000
+Output Displacements-INOD:   48 0.00000 0.00000 0.00027 0.00006 -0.00003 0.00000
+Output Displacements-INOD:   49 0.00000 0.00000 0.00053 0.00007 -0.00005 0.00000
+Output Displacements-INOD:   50 0.00000 0.00000 0.00055 0.00005 -0.00006 0.00000
+Output Displacements-INOD:   51 0.00000 0.00000 0.00000 0.00005 -0.00000 0.00000
+Output Displacements-INOD:   52 0.00000 0.00000 0.00018 0.00007 -0.00002 0.00000
+Output Displacements-INOD:   53 0.00000 0.00000 -0.00027 0.00006 0.00003 0.00000
+Output Displacements-INOD:   54 0.00000 0.00000 -0.00018 0.00007 0.00002 0.00000
+Output Displacements-INOD:   55 0.00000 0.00000 -0.00055 0.00005 0.00006 0.00000
+Output Displacements-INOD:   56 0.00000 0.00000 -0.00053 0.00007 0.00005 0.00000
+Output Displacements-INOD:   57 0.00000 0.00000 0.00044 0.00009 -0.00003 0.00000
+Output Displacements-INOD:   58 0.00000 0.00000 0.00079 0.00010 -0.00005 0.00000
+Output Displacements-INOD:   59 0.00000 0.00000 0.00089 0.00009 -0.00007 0.00000
+Output Displacements-INOD:   60 0.00000 0.00000 0.00000 0.00009 -0.00000 0.00000
+Output Displacements-INOD:   61 0.00000 0.00000 0.00026 0.00010 -0.00002 0.00000
+Output Displacements-INOD:   62 0.00000 0.00000 -0.00044 0.00009 0.00003 0.00000
+Output Displacements-INOD:   63 0.00000 0.00000 -0.00026 0.00010 0.00002 0.00000
+Output Displacements-INOD:   64 0.00000 0.00000 -0.00089 0.00009 0.00007 0.00000
+Output Displacements-INOD:   65 0.00000 0.00000 -0.00079 0.00010 0.00005 0.00000
+
+Output Stress @ the Center of Element - IEL - Principal:    1   1 -51.546  0.000 51.546
+                                               VonMises:    1   1 89.280
+Output Stress @ the Center of Element - IEL - Principal:    2   1 -78.155  0.000 78.155
+                                               VonMises:    2   1 135.368
+Output Stress @ the Center of Element - IEL - Principal:    3   1 -78.155  0.000 78.155
+                                               VonMises:    3   1 135.368
+Output Stress @ the Center of Element - IEL - Principal:    4   1 -51.546  0.000 51.546
+                                               VonMises:    4   1 89.280
+Output Stress @ the Center of Element - IEL - Principal:    5   1 -32.204  0.000 32.204
+                                               VonMises:    5   1 55.779
+Output Stress @ the Center of Element - IEL - Principal:    6   1 -27.433  0.000 27.433
+                                               VonMises:    6   1 47.515
+Output Stress @ the Center of Element - IEL - Principal:    7   1 -27.433  0.000 27.433
+                                               VonMises:    7   1 47.515
+Output Stress @ the Center of Element - IEL - Principal:    8   1 -32.204  0.000 32.204
+                                               VonMises:    8   1 55.779
+Output Stress @ the Center of Element - IEL - Principal:    9   1 -19.506  0.000 19.506
+                                               VonMises:    9   1 33.785
+Output Stress @ the Center of Element - IEL - Principal:   10   1 -13.220  0.000 13.220
+                                               VonMises:   10   1 22.897
+Output Stress @ the Center of Element - IEL - Principal:   11   1 -13.220  0.000 13.220
+                                               VonMises:   11   1 22.897
+Output Stress @ the Center of Element - IEL - Principal:   12   1 -19.506  0.000 19.506
+                                               VonMises:   12   1 33.785
+Output Stress @ the Center of Element - IEL - Principal:   13   1 -53.498  0.000 53.498
+                                               VonMises:   13   1 92.662
+Output Stress @ the Center of Element - IEL - Principal:   14   1 -23.265  0.000 23.265
+                                               VonMises:   14   1 40.296
+Output Stress @ the Center of Element - IEL - Principal:   15   1 -23.265  0.000 23.265
+                                               VonMises:   15   1 40.296
+Output Stress @ the Center of Element - IEL - Principal:   16   1 -53.498  0.000 53.498
+                                               VonMises:   16   1 92.662
